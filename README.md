@@ -8,3 +8,5 @@ Day 2 - Exercises from Kaggle Python programming - Learn Python more thoroughly 
 Day 3 - Exercises from Kaggle Machine Learning - Overview of the operation and application of machine learning models.
 
 Day 4 - Exercises from Kaggle Machine Learning - Fine-tuning the model and model validation.
+
+Day 5 - Exercises from Kaggle Machine Learning - Random forest and intro to ML competitions. 
