@@ -13,4 +13,4 @@ Day 5 - Exercises from Kaggle Machine Learning - Random forest and intro to ML c
 
 Day 6 - Exercises from Kaggle Intermediate Machine Learning - Methods for dealing with the data that include missing and category values.
 
-Day 7 - Exercise from kaggle Intermediate Machine Learning - Data pipelines for preprocessing and modeling steps, and cross-validation for more accurate evaluations of model performance.
+Day 7 - Exercises from kaggle Intermediate Machine Learning - Data pipelines for preprocessing and modeling steps, and cross-validation for more accurate evaluations of model performance.
