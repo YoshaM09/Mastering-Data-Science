@@ -12,3 +12,5 @@ Day 4 - Exercises from Kaggle Machine Learning - Fine-tuning the model and model
 Day 5 - Exercises from Kaggle Machine Learning - Random forest and intro to ML competitions. 
 
 Day 6 - Exercises from Kaggle Intermediate Machine Learning - Methods for dealing with the data that include missing and category values.
+
+Day 7 - Exercise from kaggle Intermediate Machine Learning - Data pipelines for preprocessing and modeling steps, and cross-validation for more accurate evaluations of model performance.
