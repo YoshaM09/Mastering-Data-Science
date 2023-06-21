@@ -16,3 +16,5 @@ Day 6 - Exercises from Kaggle Intermediate Machine Learning - Methods for dealin
 Day 7 - Exercises from kaggle Intermediate Machine Learning - Data pipelines for preprocessing and modeling steps, and cross-validation for more accurate evaluations of model performance.
 
 Day 8 - Exercises from kaggle Intermediate Machine Learning - Gradient boosting (XGBoost) and data leakage.
+
+Day 9 - Exercises from kaggle Deep Learning - Deep Neural Networks.
