@@ -21,3 +21,5 @@ Day 9 - Exercises from kaggle Deep Learning - Deep Neural Networks.
 
 Day 10 - Exercises from kaggle Deep Learning - Model training using Stochastic Gradient Descent and understanding overfitting and underfitting.
 
+Day 11 - Exercises from kaggle Deep Learning - Dropout, Batch Normalization and binary classification.
+
