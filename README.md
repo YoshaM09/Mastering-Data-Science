@@ -23,3 +23,5 @@ Day 10 - Exercises from kaggle Deep Learning - Model training using Stochastic G
 
 Day 11 - Exercises from kaggle Deep Learning - Dropout, Batch Normalization and binary classification.
 
+Day 12 - Exercises from kaggle Data Visualization - Seaborn, Line charts.
+
