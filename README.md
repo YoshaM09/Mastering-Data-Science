@@ -25,3 +25,5 @@ Day 11 - Exercises from kaggle Deep Learning - Dropout, Batch Normalization and 
 
 Day 12 - Exercises from kaggle Data Visualization - Seaborn, Line charts.
 
+Day 13 - Exercises from kaggle Data Visualization - Bar Charts, Heatmaps, and Scatterplots.
+
