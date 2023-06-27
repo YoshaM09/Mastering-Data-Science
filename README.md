@@ -29,3 +29,5 @@ Day 13 - Exercises from kaggle Data Visualization - Bar Charts, Heatmaps, and Sc
 
 Day 14 - Exercises from kaggle Data Visualization - Histogram, Density plots and Custom styles.
 
+Day 15 - Natural Language Processing steps.
+
