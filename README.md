@@ -27,3 +27,5 @@ Day 12 - Exercises from kaggle Data Visualization - Seaborn, Line charts.
 
 Day 13 - Exercises from kaggle Data Visualization - Bar Charts, Heatmaps, and Scatterplots.
 
+Day 14 - Exercises from kaggle Data Visualization - Histogram, Density plots and Custom styles.
+
