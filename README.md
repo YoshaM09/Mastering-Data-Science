@@ -31,3 +31,5 @@ Day 14 - Exercises from kaggle Data Visualization - Histogram, Density plots and
 
 Day 15 - Natural Language Processing steps.
 
+Day 16 - Pandas
+
