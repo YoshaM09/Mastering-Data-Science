@@ -37,3 +37,5 @@ Day 17 - Pandas - Indexing, Selecting, Assigning, Summary functions and Maps.
 
 Day 18 - Pandas - Grouping, Sorting, Renaming, and Combining. DataTypes and Missing values.
 
+Day 19 - Data Cleaning - Missing values, Scaling, Normalization, and Parsing dates.
+
