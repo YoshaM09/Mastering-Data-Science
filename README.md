@@ -40,3 +40,5 @@ Day 18 - Pandas - Grouping, Sorting, Renaming, and Combining. DataTypes and Miss
 Day 19 - Data Cleaning - Missing values, Scaling, Normalization, and Parsing dates.
 
 Day 20 - Data Cleaning - Character encoding and Data Inconsistency.
+
+Day 21 - Exercise - Kaggle Computer Vision - The Convolutional Classifier, Convolution and ReLU. 
