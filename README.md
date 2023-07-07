@@ -42,3 +42,5 @@ Day 19 - Data Cleaning - Missing values, Scaling, Normalization, and Parsing dat
 Day 20 - Data Cleaning - Character encoding and Data Inconsistency.
 
 Day 21 - Exercise - Kaggle Computer Vision - The Convolutional Classifier, Convolution and ReLU. 
+
+Day 22 - Exercise - Kaggle Computer Vision - Maximum Pooling and The Sliding Window.
