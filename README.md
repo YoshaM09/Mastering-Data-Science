@@ -46,3 +46,7 @@ Day 21 - Exercise - Kaggle Computer Vision - The Convolutional Classifier, Convo
 Day 22 - Exercise - Kaggle Computer Vision - Maximum Pooling and The Sliding Window.
 
 Day 23 - Exercise - Kaggle Computer Vision - Custom convnets and Data Augmentation.
+
+Day 24 - Exercise - Kaggle Time Series - Linear Regression with time series.
+
+Day 25 - Exercise - Kaggle Time Series - Trends in data.
