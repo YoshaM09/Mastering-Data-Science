@@ -50,3 +50,6 @@ Day 23 - Exercise - Kaggle Computer Vision - Custom convnets and Data Augmentati
 Day 24 - Exercise - Kaggle Time Series - Linear Regression with time series.
 
 Day 25 - Exercise - Kaggle Time Series - Trends in data.
+
+Day 26 - Exercise - Kaggle Time Series - Seasonality.
+
