@@ -53,3 +53,6 @@ Day 25 - Exercise - Kaggle Time Series - Trends in data.
 
 Day 26 - Exercise - Kaggle Time Series - Seasonality.
 
+Day 27 - Exercise - Kaggle Time Series - Time Series as Features.
+
+
