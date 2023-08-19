@@ -41,20 +41,20 @@ Day 19 - Data Cleaning - Missing values, Scaling, Normalization, and Parsing dat
 
 Day 20 - Data Cleaning - Character encoding and Data Inconsistency.
 
-Day 21 - Exercise - Kaggle Computer Vision - The Convolutional Classifier, Convolution and ReLU. 
+Day 21 - Exercise from kaggle Computer Vision - The Convolutional Classifier, Convolution and ReLU. 
 
-Day 22 - Exercise - Kaggle Computer Vision - Maximum Pooling and The Sliding Window.
+Day 22 - Exercise from kaggle Computer Vision - Maximum Pooling and The Sliding Window.
 
-Day 23 - Exercise - Kaggle Computer Vision - Custom convnets and Data Augmentation.
+Day 23 - Exercise from kaggle Computer Vision - Custom convnets and Data Augmentation.
 
-Day 24 - Exercise - Kaggle Time Series - Linear Regression with time series.
+Day 24 - Exercise from kaggle Time Series - Linear Regression with time series.
 
-Day 25 - Exercise - Kaggle Time Series - Trends in data.
+Day 25 - Exercise from kaggle Time Series - Trends in data.
 
-Day 26 - Exercise - Kaggle Time Series - Seasonality.
+Day 26 - Exercise from kaggle Time Series - Seasonality.
 
-Day 27 - Exercise - Kaggle Time Series - Time Series as Features.
+Day 27 - Exercise from kaggle Time Series - Time Series as Features.
 
-Day 28 - Exercise - Kaggle Time Series - Hybrid Models.
+Day 28 - Exercise from kaggle Time Series - Hybrid Models.
 
-Day 29 - Exercise - Kaggle Time Series - Forecasting With Machine Learning.
+Day 29 - Exercise from kaggle Time Series - Forecasting With Machine Learning.
