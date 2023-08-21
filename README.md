@@ -58,3 +58,5 @@ Day 27 - Exercise from kaggle Time Series - Time Series as Features.
 Day 28 - Exercise from kaggle Time Series - Hybrid Models.
 
 Day 29 - Exercise from kaggle Time Series - Forecasting With Machine Learning.
+
+Day 30 - Large Language Models.
